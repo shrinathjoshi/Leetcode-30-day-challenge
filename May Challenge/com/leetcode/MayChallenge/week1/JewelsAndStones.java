@@ -1,13 +1,17 @@
 package com.leetcode.MayChallenge.week1;
 
 import java.util.HashMap;
+import java.util.stream.Stream;
 
 public class JewelsAndStones {
 
 	public int numJewelsInStones(String J, String S) {
 		
+		if(J.length() == 0 || S.length() == 0) return 0;
+		
+		
         HashMap<Character,Integer> cache =  new HashMap<Character, Integer>();
-        
+       
         for(int i=0;i<S.length();i++) {
         	char c = S.charAt(i);
         	if(cache.containsKey(c)) {

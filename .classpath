@@ -7,7 +7,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="April Challenge"/>
-	<classpathentry kind="src" path="May_Challenge"/>
+	<classpathentry kind="src" path="May Challenge"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
 		<attributes>
 			<attribute name="module" value="true"/>
