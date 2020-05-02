@@ -6,12 +6,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="week1"/>
-	<classpathentry kind="src" path="week2"/>
-	<classpathentry kind="src" path="week3"/>
-	<classpathentry kind="src" path="week4"/>
+	<classpathentry kind="src" path="April Challenge"/>
+	<classpathentry kind="src" path="May_Challenge"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>

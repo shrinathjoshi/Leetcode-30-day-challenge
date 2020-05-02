@@ -1,3 +1,5 @@
+package com.leetcode.AprilChallenge.week4;
+
 import java.util.HashMap;
 
 public class SubarraySumEqualToK {
