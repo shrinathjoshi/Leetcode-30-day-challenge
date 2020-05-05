@@ -2,6 +2,13 @@ package com.leetcode.MayChallenge.week1;
 
 import java.util.LinkedHashMap;
 
+
+/**
+ * @author Shrinath Joshi
+ *		Time complexity :- O(n)
+ *		Space complexity :- O(n)
+ */
+
 public class FirstUniqueCharacterInString {
 
     public int firstUniqChar(String s) {
