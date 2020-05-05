@@ -9,14 +9,14 @@ public class FirstUniqueCharacterInString {
     	LinkedHashMap<Character, Integer> cache = new LinkedHashMap<Character, Integer>();
     	int n = s.length();
     	
-    	for(char c : s.toCharArray()) {
+    	for(int i=0;i<n;i++) {
+    		char c = s.charAt(i);
     		cache.put(c, cache.getOrDefault(c, 0)+1);
     	}
     	
     	for(int i =0;i<n;i++) {
     		char c = s.charAt(i);
-    		int value = cache.get(c);
-    		if(value==1) return i;
+    		if(cache.get(c)==1) return i;
     	}
     	
     	return -1;
