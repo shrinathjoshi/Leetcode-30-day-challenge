@@ -18,7 +18,7 @@ public class MajorityElement {
 		//Space complexity :- O(1)
 		
 		int count=0;
-		int candiate=0;
+		Integer candiate=null;
 		
 		for(int i=0;i<nums.length;i++) {
 			if(count == 0 ) {
