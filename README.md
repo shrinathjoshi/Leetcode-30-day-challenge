@@ -10,7 +10,7 @@
 | 4  | [ Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)   | [ Number Complement](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/NumberComplement.java)  | Easy  | NA  | Bit Manipulation  | O(log(v) , v= value of number  | O(1) |15-30 min  |
 | 5  | [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)   | [First Unique Character in a String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/FirstUniqueCharacterInString.java)  | Easy  | HashMap  | Frequency Counting  | O(n)  | O(n)  | 10 min  |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+| 7  | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)  | [Cousins in Binary Tree](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/CousinsInBinaryTree.java)  | Easy  | NA  | NA  | O(n)  | O(log(n)) Resursive stack  | 15-30 min  |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
