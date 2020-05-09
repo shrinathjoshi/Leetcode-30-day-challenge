@@ -11,8 +11,8 @@
 | 5  | [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)   | [First Unique Character in a String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/FirstUniqueCharacterInString.java)  | Easy  | HashMap  | Frequency Counting  | O(n)  | O(n)  | 10 min  |
 | 6  | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)  | [Majority Element](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/MajorityElement.java)  | Easy  | NA  | Boyer Moore Algorithm  | O(n)  | O(1)  | 30-45 min  |
 | 7  | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)  | [Cousins in Binary Tree](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/CousinsInBinaryTree.java)  | Easy  | NA  | NA  | O(n)  | O(log(n)) Resursive stack  | 15-30 min  |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+| 8  | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [  Check If It Is a Straight Line](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/CheckIfAStraightLine.java)  | Easy  | NA  | Slope of a line  | O(n)  | O(1)  | 15-20 min  |
+| 9  | [  Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)  | [  Valid Perfect Square]()  | Easy  | NA  | Binary Search  | O(logn)  | O(1)  | 15-30 min  |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
