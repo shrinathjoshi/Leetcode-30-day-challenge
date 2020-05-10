@@ -1,7 +1,6 @@
 # Leetcode-30-day-challenge
 
 ### May Challenge ###
-#### week1 ####
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Time to Solve|
 |---|---|---|---|---|---|---|---|---|
 | 1  |  [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [First Bad Version](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/FirstBadVersion.java)  | Easy  | Array  | Binary Search  | O(logn)  |  O(1) | 15-30 min  |
@@ -18,3 +17,22 @@
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+
+### If this repository was helpful to you then  do <b>star</b> this repository, Also  please feel free to  contribute to this repo. Contibutions are always welcomed ###
+### You can connect me on [LinkedIn](https://www.linkedin.com/in/shrinathjoshi/) ###
+
+
+
+
