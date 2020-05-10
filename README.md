@@ -13,7 +13,7 @@
 | 7  | [Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)  | [Cousins in Binary Tree](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/CousinsInBinaryTree.java)  | Easy  | NA  | NA  | O(n)  | O(log(n)) Resursive stack  | 15-30 min  |
 | 8  | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)  | [  Check If It Is a Straight Line](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/CheckIfAStraightLine.java)  | Easy  | NA  | Slope of a line  | O(n)  | O(1)  | 15-20 min  |
 | 9  | [  Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)  | [  Valid Perfect Square]()  | Easy  | NA  | Binary Search  | O(logn)  | O(1)  | 15-30 min  |
-|   |   |   |   |   |   |   |   |   |
+| 10  | [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)   | [Find the Town Judge](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/FindTownJudge.java)  | Easy  | NA  | NA  | O(n)  | O(n)  | 15-30min  |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
