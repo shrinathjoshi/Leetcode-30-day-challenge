@@ -1,7 +1,7 @@
 # Leetcode-30-day-challenge
 
 ### May Challenge ###
-| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Time to Solve|
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Ideal Time to Solve|
 |---|---|---|---|---|---|---|---|---|
 | 1  |  [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [First Bad Version](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/FirstBadVersion.java)  | Easy  | Array  | Binary Search  | O(logn)  |  O(1) | 15-30 min  |
 | 2  |  [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)| [Jewels and Stones](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week1/JewelsAndStones.java)  | Easy  | HashMap  | frequency counting  | O(n)  |  O(n) | 15-30 min  |
@@ -15,10 +15,10 @@
 | 10  | [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)   | [Find the Town Judge](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/FindTownJudge.java)  | Easy  | NA  | NA  | O(n)  | O(n)  | 15-30min  |
 | 11  | [Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)  | [Flood Fill](github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/FloodFill.java)  | Easy  | Graph  | Graph Traversal BFS/DFS  | O(n)  | O(n)  | 30 min  |
 | 12  | [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)  | [Single Element in a Sorted Array](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/SingleElementInSortedArray.java)  | Easy   | NA  | Two pointer Algo  | O(logn)  | O(1)  | 15-30 min  |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+| 13  | [ Remove K Digits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)  | [ Remove K Digits](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/RemoveKDigits.java)  | Easy  | NA  | Greedy Algorithm  | O(kn)  | O(1)  | 30-45 min  |
+| 14  | [  Implement Trie (Prefix Tree)](leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)  | [  Implement Trie (Prefix Tree)](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/Trie.java)  | Medium  | Trie | NA |  O(m) | O(m)  | 30-45 min  |
+| 15  | [  Maximum Sum Circular Subarray](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/)  | [ Maximum Sum Circular Subarray](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/MaximumSumCircularSubarray.java)  | Medium  | NA  | Kadane's Algorithm   | O(n)  | O(1)  | 45 min  |
+| 16  | [Odd Even Linked List](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)  | [Odd Even Linked List](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/OddEvenLinkedList.java)  | Easy  | Linked List  | NA  | O(n)  | O(1)   | 15-30 min  |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
