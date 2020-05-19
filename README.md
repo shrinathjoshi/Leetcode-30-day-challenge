@@ -19,6 +19,9 @@
 | 14  | [  Implement Trie (Prefix Tree)](leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)  | [  Implement Trie (Prefix Tree)](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week2/Trie.java)  | Medium  | Trie | NA |  O(m) | O(m)  | 30-45 min  |
 | 15  | [  Maximum Sum Circular Subarray](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/)  | [ Maximum Sum Circular Subarray](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/MaximumSumCircularSubarray.java)  | Medium  | NA  | Kadane's Algorithm   | O(n)  | O(1)  | 45 min  |
 | 16  | [Odd Even Linked List](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)  | [Odd Even Linked List](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/OddEvenLinkedList.java)  | Easy  | Linked List  | NA  | O(n)  | O(1)   | 15-30 min  |
+| 17   | [  Find All Anagrams in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/)  | [  Find All Anagrams in a String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/FindAllAnagramsInString.java)  | Medium  | NA  | Sliding Window  | O(n)  | O(1)  | 45 min  |
+| 18  | [  Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/)  | [  Permutation in String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/PermutationInString.java)  | Easy  | NA  | Sliding Window  | O(n)  | O(1)  | 30min  |
+| 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
@@ -29,6 +32,9 @@
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+
 
 ### If this repository was helpful to you then  do <b>star</b> this repository, Also  please feel free to  contribute to this repo. Contibutions are always welcomed ###
 ### You can connect me on [LinkedIn](https://www.linkedin.com/in/shrinathjoshi/) ###
