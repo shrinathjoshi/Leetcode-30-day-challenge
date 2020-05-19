@@ -2,6 +2,15 @@ package com.leetcode.MayChallenge.week3;
 
 import java.util.Arrays;
 
+/**
+ * @author Shrinath Joshi
+ * 	
+ * 		Time complexity:- O(n)
+ * 		Space complexity :- O(1)
+ *
+ */
+
+
 public class PermutationInString {
 
 	public boolean checkInclusion(String s1, String s2) {
