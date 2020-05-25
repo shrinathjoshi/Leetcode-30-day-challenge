@@ -22,21 +22,18 @@
 | 17   | [  Find All Anagrams in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/)  | [  Find All Anagrams in a String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/FindAllAnagramsInString.java)  | Medium  | NA  | Sliding Window  | O(n)  | O(1)  | 45 min  |
 | 18  | [  Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/)  | [  Permutation in String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/PermutationInString.java)  | Easy  | NA  | Sliding Window  | O(n)  | O(1)  | 30min  |
 | 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
-| 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
-| 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
-| 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
-| 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
-| 19  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+| 20  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
+| 21  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
+| 22  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
+| 23  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
+| 24  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
+| 25  | [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/)  | [Uncrossed Lines](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week4/UncrossedLines.java)  | Medium  | NA | Dynamic Programming  | O(nm) n and m are size of Array A & B  | O(nm) n and m are size of Array A & B  | 45 min  |
+| 26  |   |   |   |   |   |   |   |   |
+| 27  |   |   |   |   |   |   |   |   |
+| 28  |   |   |   |   |   |   |   |   |
+| 29  |   |   |   |   |   |   |   |   |
+| 30  |   |   |   |   |   |   |   |   |
+| 31  |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 
