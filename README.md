@@ -28,7 +28,7 @@
 | 23  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
 | 24  | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)  | [Online Stock Span](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week3/StockSpanner.java)  | Easy   | Stack  | NA  | O(n)  | O(n)  | 30min  |
 | 25  | [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/)  | [Uncrossed Lines](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week4/UncrossedLines.java)  | Medium  | NA | Dynamic Programming  | O(nm) n and m are size of Array A & B  | O(nm) n and m are size of Array A & B  | 45 min  |
-| 26  |   |   |   |   |   |   |   |   |
+| 26  | [ Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)   | [ Contiguous Array](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week4/ContigiousArray.java)  | Medium  | HashMap  | NA  | O(n)  | O(n)  | 45 min  |
 | 27  |   |   |   |   |   |   |   |   |
 | 28  |   |   |   |   |   |   |   |   |
 | 29  |   |   |   |   |   |   |   |   |
