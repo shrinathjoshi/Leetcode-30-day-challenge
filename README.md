@@ -32,7 +32,7 @@
 | 27  |   |   |   |   |   |   |   |   |
 | 28  |   |   |   |   |   |   |   |   |
 | 29  |   |   |   |   |   |   |   |   |
-| 30  | [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/)  | [K Closest Points to Origin](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/KClosestPointsToOrigin.java)  | Easy   | Priority Queue  | NA  | O(nlogk) , n is the number of points  | O(n) , n is the number of points  | 30min   |
+| 30  | [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/)  | [K Closest Points to Origin](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/KClosestPointsToOrigin.java)  | Easy   | Priority Queue  | NA  | O((n-k)logk) , n is the number of points  | O(n) , n is the number of points  | 30min   |
 | 31  | [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/)   | [  Edit Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/EditDistance.java)  | Hard  | NA  | String Edit Distance  | O(m*n) where m and n are length of two string   | O(m*n) where m and n are length of two string  | 45 min  |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
