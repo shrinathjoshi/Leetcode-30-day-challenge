@@ -3,6 +3,12 @@ package com.leetcode.MayChallenge.week5;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+/*
+	Time complexity :- O(klogn) , n is the number of points 
+	Space complexity :- O(n) , n is the number of points
+
+*/
+
 public class KClosestPointsToOrigin {
 	public int[][] kClosest(int[][] points, int K) {
 		PriorityQueue<int[]> maxHeap = new PriorityQueue<int[]>(new PointComparator());
