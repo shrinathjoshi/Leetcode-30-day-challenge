@@ -31,12 +31,10 @@
 | 26  | [ Contiguous Array](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)   | [ Contiguous Array](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week4/ContigiousArray.java)  | Medium  | HashMap  | NA  | O(n)  | O(n)  | 45 min  |
 | 27  |   |   |   |   |   |   |   |   |
 | 28  |   |   |   |   |   |   |   |   |
-| 29  |   |   |   |   |   |   |   |   |
+| 29  | [Course Schedule](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)  | [Course Schedule](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/CourseSchedule.java)  | Medium  | NA  | [Kahn's Algorithm](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/)  | O(V+E)  | O(V)  | 45 min  |
 | 30  | [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/)  | [K Closest Points to Origin](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/KClosestPointsToOrigin.java)  | Easy   | Priority Queue  | NA  | O((n-k)logk) , n is the number of points  | O(n) , n is the number of points  | 30min   |
 | 31  | [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/)   | [  Edit Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/EditDistance.java)  | Hard  | NA  | String Edit Distance  | O(m*n) where m and n are length of two string   | O(m*n) where m and n are length of two string  | 45 min  |
 |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-
 
 ### If this repository was helpful to you then  do <b>star</b> this repository, Also  please feel free to  contribute to this repo. Contibutions are always welcomed ###
 ### You can connect me on [LinkedIn](https://www.linkedin.com/in/shrinathjoshi/) ###
