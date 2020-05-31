@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /*
-	Time complexity :- O(nlogk) , n is the number of points 
+	Time complexity :- O((n-k)logk) , n is the number of points 
 	Space complexity :- O(n) , n is the number of points
 
 */
