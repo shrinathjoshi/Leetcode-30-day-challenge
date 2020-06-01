@@ -1,9 +1,11 @@
 package com.leetcode.JuneChallenge.week1;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * @author Shrinath Joshi
  *
- *         Time complexity :- O(n)
  * 
  */
 class TreeNode {
@@ -28,6 +30,42 @@ class TreeNode {
 public class InvertBinaryTree {
 
 	public TreeNode invertTree(TreeNode root) {
+//		return invertTreeUsingRecursion(root);
+		return invertTreeUsingIteration(root);
+	}
+
+	private TreeNode invertTreeUsingIteration(TreeNode root) {
+
+//		Time complexity :- O(n)
+//		Space complexity :- O(n)
+
+		if (root == null)
+			return root;
+
+		Queue<TreeNode> queue = new LinkedList<TreeNode>();
+		queue.add(root);
+
+		while (!queue.isEmpty()) {
+
+			TreeNode current = queue.poll();
+			TreeNode temp = current.left;
+			current.left = current.right;
+			current.right = temp;
+
+			if (current.left != null)
+				queue.add(current.left);
+			if (current.right != null)
+				queue.add(current.right);
+		}
+
+		return root;
+	}
+
+	private TreeNode invertTreeUsingRecursion(TreeNode root) {
+
+//		 Time complexity :- O(n)
+//		 Space complexity :- O(h) h is the height of the tree (worst case h=n)
+
 		// Base Case 1
 		if (root == null)
 			return root;
@@ -41,7 +79,6 @@ public class InvertBinaryTree {
 		root.left = right;
 
 		return root;
-
 	}
 
 	public static void main(String[] args) {
