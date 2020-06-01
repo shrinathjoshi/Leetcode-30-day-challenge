@@ -36,6 +36,15 @@
 | 31  | [Edit Distance](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/)   | [  Edit Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/May%20Challenge/com/leetcode/MayChallenge/week5/EditDistance.java)  | Hard  | NA  | String Edit Distance  | O(m*n) where m and n are length of two string   | O(m*n) where m and n are length of two string  | 45 min  |
 |   |   |   |   |   |   |   |   |   |
 
+
+### June Challenge ###
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | 
+|---|---|---|---|---|---|---|---|
+| 1  | [Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/)  | [Invert Binary Tree](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/June%20Challenge/com/leetcode/JuneChallenge/week1/InvertBinaryTree.java)  | Easy  | Binary Tree  | NA  | O(n)  | O(n)  |
+|   |   |   |   |   |   |   |   |
+
+
+
 ### If this repository was helpful to you then  do <b>star</b> this repository, Also  please feel free to  contribute to this repo. Contibutions are always welcomed ###
 ### You can connect me on [LinkedIn](https://www.linkedin.com/in/shrinathjoshi/) ###
 
