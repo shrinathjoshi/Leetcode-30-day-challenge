@@ -41,6 +41,15 @@
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | 
 |---|---|---|---|---|---|---|---|
 | 1  | [Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/)  | [Invert Binary Tree](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/June%20Challenge/com/leetcode/JuneChallenge/week1/InvertBinaryTree.java)  | Easy  | Binary Tree  | NA  | O(n)  | O(n)  |
+| 2  | [Delete A Node in a LinkedList]()  | [Delete A Node in a LinkedList](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/June%20Challenge/com/leetcode/JuneChallenge/week1/DeleteNodeInALinkedList.java)  | Easy  | LinkedList  | NA  | O(1)  | O(1)  |
+| 3*  | [Two City Scheduling]()  | [Two City Scheduling](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/June%20Challenge/com/leetcode/JuneChallenge/week1/TwoCityScheduling.java)  | Easy  | Priority Queue  | NA  | O(nlogn)  | O(n)  |
+| 4  | [Reverse String]()  | [Reverse String](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/June%20Challenge/com/leetcode/JuneChallenge/week1/ReverseString.java)  | Easy  | NA  | Two Pointer   | O(n)  | O(1)  |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 
 
