@@ -54,6 +54,13 @@
 
 
 
+###Daily Coding Challenge ###
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | 
+|---|---|---|---|---|---|---|---|
+| 1  | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  | [Java](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/Daily%20Coding%20Challenge/FindAllDuplicatesInAnArray.java)  | Medium  | NA  | NA  | O(n)  |O(1)  |
+|   |   |   |   |   |   |   |   |
+
+Day 1: [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 ### If this repository was helpful to you then  do <b>star</b> this repository, Also  please feel free to  contribute to this repo. Contibutions are always welcomed ###
 ### You can connect me on [LinkedIn](https://www.linkedin.com/in/shrinathjoshi/) ###
 
