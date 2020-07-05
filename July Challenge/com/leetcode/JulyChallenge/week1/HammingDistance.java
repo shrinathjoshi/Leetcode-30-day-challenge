@@ -1,3 +1,4 @@
+package com.leetcode.JulyChallenge.week1;
 
 /**
  * Problem Statement :-
