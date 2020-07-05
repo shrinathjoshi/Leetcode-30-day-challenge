@@ -53,6 +53,10 @@
 |   |   |   |   |   |   |   |   |
 
 
+### July Challenge ###
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading 
+|---|---|---|---|---|---|---|---|---|
+| 4  | [Hamming Distance](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Hamming Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/HammingDistance.java)  | Easy  | Bit Manipulation  | NA  | O(1)  | O(1)  | https://www.techiedelight.com/brian-kernighans-algorithm-count-set-bits-integer/ |
 
 ###Daily Coding Challenge ###
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | 
