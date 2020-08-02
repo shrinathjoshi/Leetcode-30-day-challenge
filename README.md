@@ -59,6 +59,13 @@
 | 4  | [Hamming Distance](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Hamming Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/HammingDistance.java)  | Easy  | NA  | Bit Manipulation  | O(1)  | O(1)  | https://www.techiedelight.com/brian-kernighans-algorithm-count-set-bits-integer/ |
 | 5  | [Plus One](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Plus One](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/PlusOne.java)  | Easy  | NA | NA  | O(N)  | O(1)  | [Back To Back SWE](https://www.youtube.com/watch?v=vA0t42qwKO0) |
 
+### August Challenge ###
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading 
+|---|---|---|---|---|---|---|---|---|
+| 4  | [Hamming Distance](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Hamming Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/HammingDistance.java)  | Easy  | NA  | Bit Manipulation  | O(1)  | O(1)  | https://www.techiedelight.com/brian-kernighans-algorithm-count-set-bits-integer/ |
+| 5  | [Plus One](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Plus One](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/PlusOne.java)  | Easy  | NA | NA  | O(N)  | O(1)  | [Back To Back SWE](https://www.youtube.com/watch?v=vA0t42qwKO0) |
+
+
 ###Daily Coding Challenge ###
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | 
 |---|---|---|---|---|---|---|---|
