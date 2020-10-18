@@ -74,11 +74,6 @@
 
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading 
 |---|---|---|---|---|---|---|---|---|
-| 1  | [Hamming Distance](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Hamming Distance](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/HammingDistance.java)  | Easy  | NA  | Bit Manipulation  | O(1)  | O(1)  | https://www.techiedelight.com/brian-kernighans-algorithm-count-set-bits-integer/ |
-| 2  | [Plus One](leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)  | [Plus One](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/July%20Challenge/com/leetcode/JulyChallenge/week1/PlusOne.java)  | Easy  | NA | NA  | O(N)  | O(1)  | [Back To Back SWE](https://www.youtube.com/watch?v=vA0t42qwKO0) |
-| 3  | [Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)  | [Plus One](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/August%20Challenge/com/leetcode/AugustChallenge/week1/ValidPalindrome.java)  | Easy  | NA | NA  | O(N)  | O(1)  | |
-
-
 | 17  | [187. Repeated DNA Sequences](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)  | [187. Repeated DNA Sequences](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/October%20Challenge/week3/day17/RepeatedDNASequences.java)  | Easy  | String |   | O(N)  | O(N)  |  |
 
 
