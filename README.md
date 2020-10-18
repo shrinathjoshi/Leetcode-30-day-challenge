@@ -74,6 +74,8 @@
 
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading 
 |---|---|---|---|---|---|---|---|---|
+
+| 15  | [189. Rotate Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3496/)  | [189. Rotate Array](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/October%20Challenge/week3/day15/RotateArray.java)  | Easy  | String |   | O(N)  | O(1)  |  |
 | 17  | [187. Repeated DNA Sequences](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)  | [187. Repeated DNA Sequences](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/October%20Challenge/week3/day17/RepeatedDNASequences.java)  | Easy  | String |   | O(N)  | O(N)  |  |
 
 
