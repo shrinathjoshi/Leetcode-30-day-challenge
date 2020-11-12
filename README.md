@@ -78,6 +78,11 @@
 | 17  | [187. Repeated DNA Sequences](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/)  | [Java](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/October%20Challenge/week3/day17/RepeatedDNASequences.java)  | Easy  | String |   | O(N)  | O(N)  |  |
 
 
+### November Challenge
+
+| Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading 
+|---|---|---|---|---|---|---|---|---|
+| 6  | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)  | [Java](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/November%20Challenge/FindSmallestDivisorGivenThreshold.java)  | Medium  |  | Binary Search  | O(NlogM)  | O(1)  | [Discuss](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/446376/JavaC%2B%2BPython-Binary-Search) [Discuss](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/777019/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)[Binary Search 101](https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101)|
 
 
 
