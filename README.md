@@ -83,6 +83,9 @@
 | Day  | Problem Statement  | Solution   | Difficulty   | Data Structure Used  | Algorithm used  | Time Complexity | Space Complexity | Additional Reading 
 |---|---|---|---|---|---|---|---|---|
 | 6  | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)  | [Java](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/November%20Challenge/FindSmallestDivisorGivenThreshold.java)  | Medium  |  | Binary Search  | O(NlogM)  | O(1)  | [Discuss](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/446376/JavaC%2B%2BPython-Binary-Search) [Discuss](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/discuss/777019/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)[Binary Search 101](https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101)|
+| 12  | [47. Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/)  | [Java](https://github.com/shrinathjoshi/Leetcode-30-day-challenge/blob/master/November%20Challenge/PermutationTwo.java)  | Medium  | Backtracing |   |  |  | [Discuss](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))|
+
+
 
 
 
